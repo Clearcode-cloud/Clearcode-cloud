@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Clearcode-cloud
 - 👀 I’m a CS student.
 - 🌱 I’m currently learning ...(a lot of things)
-- 📫 How to reach me at 2847491517@qq.com
+- 📫 How to reach me at ky822142@gmail.com
 
 <!---
 Clearcode-cloud/Clearcode-cloud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
